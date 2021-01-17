@@ -1,4 +1,4 @@
-# NBA Game Results Prediction
+# NBA Games Results Prediction
 
 Note: all data for this project are generated and/or modified from https://basketball-reference.com, I have also uploaded on this site.<br>
 Source data were uploaded to my personal website, they are also avaliable on this site. <br>
