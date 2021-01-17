@@ -1,14 +1,14 @@
 # NBA Games Results Prediction
 
 Note: all data for this project are generated and/or modified from https://basketball-reference.com, I have also uploaded on this site.<br>
-Source data were uploaded to my personal website, they are also avaliable on this site. <br>
+Source data were uploaded to my personal website, they are also available on this site. <br>
 This prediction is produced by Jiabao Zheng with thanks to the inspiration by https://lanqiao.cn <br>
 The data cleaning notebook can be found in the data cleaning folder.
 
 In this project, we use Python and Logistic Regression to predict NBA game results in 2019-2020 season based on team's statistic from the previous season. 
 ![title](nba_profile.jpg)
 
-The HTML version is avaliable at https://student.cs.uwaterloo.ca/~j243zhen/project/nba_pred/nba_game_results_prediction.html. More information are avaliable on this site
+The HTML version is available at https://student.cs.uwaterloo.ca/~j243zhen/project/nba_pred/nba_game_results_prediction.html. More information are available on this site
 
 ## Summary
 We used some statistics from basketball-reference.com to calculate the Elo score of each NBA team and used these basic statistics to evaluate 
